@@ -1,0 +1,43 @@
+[build]
+  command = "next build"
+  publish = ".next"
+
+[build.environment]
+  NEXT_TELEMETRY_DISABLED = "1"
+  NODE_VERSION = "18"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
+[functions]
+  # Use JavaScript functions with direct OpenAI API calls
+  node_bundler = "esbuild"
+  external_node_modules = ["pdf-parse", "formidable", "uuid"]
+  
+  # Increase timeout for functions that process PDFs
+  [functions.upload-handler]
+    timeout = 30
+
+  # Increase timeout for OpenAI API calls - specify individual functions
+  [functions."api-knowledge-vectorize"]
+    timeout = 30
+    
+  [functions."api-knowledge-query"]
+    timeout = 30
+    
+  [functions."api-openai"]
+    timeout = 10
+    
+  [functions."api-openai-fallback"]
+    timeout = 10
+    
+  # Define redirects for API routes
+  [[redirects]]
+    from = "/api/openai"
+    to = "/.netlify/functions/api-openai"
+    status = 200
+    
+  [[redirects]]
+    from = "/api/openai/fallback"
+    to = "/.netlify/functions/api-openai-fallback"
+    status = 200

@@ -1,0 +1,9 @@
+{
+  "name": "api-openai",
+  "version": "1.0.0",
+  "description": "OpenAI API function for Netlify",
+  "main": "api-openai.js",
+  "dependencies": {
+    "openai": "^4.20.1"
+  }
+}

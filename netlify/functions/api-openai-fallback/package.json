@@ -1,0 +1,9 @@
+{
+  "name": "api-openai-fallback",
+  "version": "1.0.0",
+  "description": "OpenAI API fallback function for Netlify",
+  "main": "api-openai-fallback.js",
+  "dependencies": {
+    "openai": "^4.20.1"
+  }
+}

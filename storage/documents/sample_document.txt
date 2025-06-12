@@ -1,0 +1,15 @@
+This is a sample document for testing the knowledge base functionality.
+
+# PrintForm Information
+
+PrintForm is a manufacturing company that specializes in on-demand production services.
+We offer CNC machining, injection molding, and sheet metal fabrication services.
+
+## Our Services
+
+1. CNC Machining
+2. Injection Molding
+3. Sheet Metal Fabrication
+4. 3D Printing
+
+For more information, please visit our website or contact our customer service team.

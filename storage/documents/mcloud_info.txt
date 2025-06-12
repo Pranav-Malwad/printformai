@@ -1,0 +1,175 @@
+# MCloud - Printform's Manufacturing Management Platform
+
+## Overview
+
+MCloud is a proprietary cloud-based manufacturing management platform developed exclusively by Printform Manufacturing Company. It serves as a comprehensive solution for customers to manage their manufacturing projects, track orders, and streamline their workflow. MCloud is accessible at https://paasport.printform.com/paasport/login.
+
+## Key Features
+
+### Order Management
+- Create and submit new manufacturing orders
+- Track order status in real-time
+- View order history and details
+- Manage order modifications and revisions
+- Receive notifications on order progress
+
+### Project Tracking
+- Organize multiple orders into projects
+- Set project milestones and deadlines
+- Monitor project progress through interactive dashboards
+- Collaborate with team members and Printform staff
+- Store and access project documentation
+
+### Document Management
+- Upload and store CAD files and technical drawings
+- Manage revisions and version control
+- Share documents with authorized team members
+- Download manufacturing reports and quality certificates
+- Maintain a secure repository of design files
+
+### Quality Control
+- Access inspection reports and measurements
+- View quality control documentation
+- Submit and track quality-related inquiries
+- Monitor part tolerances and specifications
+- Request additional quality verification when needed
+
+### Communication Tools
+- Direct messaging with Printform project managers
+- Comment threads on specific orders or projects
+- Notification system for updates and changes
+- Schedule virtual meetings and reviews
+- Submit technical questions to engineering team
+
+### Analytics and Reporting
+- Generate custom reports on manufacturing metrics
+- Analyze production times and costs
+- Track spending across projects and departments
+- Export data for integration with other systems
+- Monitor key performance indicators
+
+## Technical Specifications
+
+### System Requirements
+- Modern web browser (Chrome, Firefox, Safari, Edge)
+- Internet connection
+- No special software installation required
+- Mobile-responsive design for access on tablets and smartphones
+
+### Security Features
+- Secure HTTPS connection
+- Multi-factor authentication
+- Role-based access control
+- Data encryption at rest and in transit
+- Regular security audits and updates
+
+### Integration Capabilities
+- API access for enterprise customers
+- Data export in standard formats (CSV, JSON)
+- Integration with common ERP systems
+- Webhook support for automated workflows
+- Custom integration solutions available
+
+## User Roles and Permissions
+
+### Administrator
+- Manage user accounts and permissions
+- Configure company-wide settings
+- Access all projects and orders
+- Generate comprehensive reports
+- Manage billing and subscription details
+
+### Project Manager
+- Create and manage projects
+- Assign team members to projects
+- Approve order submissions
+- Monitor project timelines and budgets
+- Generate project-specific reports
+
+### Engineer
+- Upload and manage technical files
+- Review and approve designs
+- Communicate with Printform engineering team
+- Access manufacturing specifications
+- Submit design changes and revisions
+
+### Viewer
+- View assigned projects and orders
+- Download approved documents
+- Track order status
+- Generate basic reports
+- Receive notifications
+
+## Benefits of Using MCloud
+
+### For Manufacturers
+- Centralized management of all manufacturing projects
+- Improved communication with Printform team
+- Reduced errors through standardized processes
+- Better visibility into production status
+- Faster response to changes and issues
+
+### For Procurement Teams
+- Streamlined ordering process
+- Comprehensive cost tracking
+- Simplified reordering of repeat parts
+- Better budget forecasting
+- Consolidated vendor management
+
+### For Engineering Teams
+- Secure storage of design files
+- Simplified collaboration on technical specifications
+- Direct access to manufacturing expertise
+- Streamlined design revision process
+- Reduced time from design to production
+
+## Getting Started
+
+### Account Creation
+New customers receive MCloud access as part of their onboarding process with Printform. The account administrator will receive login credentials via email.
+
+### Initial Setup
+1. Log in using the provided credentials
+2. Complete company profile information
+3. Set up additional user accounts as needed
+4. Configure notification preferences
+5. Upload company standards and templates
+
+### Training Resources
+- Interactive tutorials available within the platform
+- Scheduled training sessions with Printform staff
+- Comprehensive user documentation
+- Video guides for common tasks
+- Regular webinars on advanced features
+
+## Support
+
+### Technical Support
+- Available Monday-Friday, 8:00 AM - 6:00 PM CST
+- Email: mcloud-support@printform.com
+- Phone: (555) 123-4567 ext. 3000
+- In-app chat support during business hours
+- Knowledge base with troubleshooting guides
+
+### Feature Requests
+Printform continuously improves MCloud based on customer feedback. Users can submit feature requests through:
+- The feedback form within MCloud
+- Their Printform account manager
+- Quarterly customer feedback sessions
+
+## Frequently Asked Questions
+
+**Q: Is MCloud included with all Printform manufacturing services?**
+A: Yes, MCloud access is provided to all active Printform customers at no additional charge.
+
+**Q: Can I grant access to external partners or clients?**
+A: Yes, administrators can create limited-access accounts for external collaborators.
+
+**Q: How secure is my proprietary design data in MCloud?**
+A: Printform employs industry-leading security measures to protect all customer data, including encryption, secure access controls, and regular security audits.
+
+**Q: Can MCloud integrate with our existing systems?**
+A: Yes, MCloud offers various integration options for enterprise customers. Contact your account manager to discuss specific requirements.
+
+**Q: Is there a limit to the number of users or projects?**
+A: Standard accounts include up to 10 users and unlimited projects. Enterprise accounts offer expanded user limits.

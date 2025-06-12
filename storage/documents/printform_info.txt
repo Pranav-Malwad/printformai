@@ -1,0 +1,220 @@
+# Printform Manufacturing Company
+
+## Company Overview
+
+Printform is a leading custom parts manufacturing company that specializes in on-demand production services. We serve a diverse range of industries including consumer products, energy, medical, and oil and gas sectors. Our state-of-the-art facilities and experienced team enable us to deliver high-quality parts with quick turnaround times.
+
+## Manufacturing Services
+
+### CNC Machining
+
+Our CNC machining services offer precision manufacturing for both metal and plastic parts. We utilize 3-5 axis CNC machines to create complex geometries with tight tolerances.
+
+**Capabilities:**
+- Materials: Aluminum, Steel, Stainless Steel, Brass, Copper, Titanium, and various plastics
+- Tolerances: As tight as ±0.001"
+- Maximum part size: 24" x 36" x 18"
+- Typical lead time: 3-10 business days
+
+**Common Applications:**
+- Functional prototypes
+- Low to medium volume production parts
+- Jigs and fixtures
+- Custom components
+
+### Injection Molding
+
+Our injection molding services are ideal for high-volume production of plastic parts. We offer both prototype tooling and production tooling options.
+
+**Capabilities:**
+- Materials: ABS, PC, Nylon, PP, PE, TPE, TPU, and more
+- Tolerances: ±0.005"
+- Part size: Up to 24" in the largest dimension
+- Production volume: From 100 to 100,000+ parts
+
+**Common Applications:**
+- Consumer products
+- Medical devices
+- Electronic enclosures
+- Automotive components
+
+### Sheet Metal Fabrication
+
+Our sheet metal fabrication services include cutting, bending, and assembling metal sheets into various forms and structures.
+
+**Capabilities:**
+- Materials: Aluminum, Steel, Stainless Steel, Copper, Brass
+- Thickness range: 0.020" to 0.25"
+- Tolerances: ±0.005"
+- Processes: Laser cutting, punching, bending, welding
+
+**Common Applications:**
+- Enclosures and housings
+- Brackets and mounts
+- Panels and chassis
+- Structural components
+
+### 3D Printing
+
+Our 3D printing services offer rapid prototyping and low-volume production using various technologies.
+
+**Capabilities:**
+- Technologies: SLA, SLS, FDM
+- Materials: Various plastics, resins, and nylon
+- Tolerances: ±0.005"
+- Maximum part size: 15" x 15" x 15"
+
+**Common Applications:**
+- Concept models
+- Functional prototypes
+- Complex geometries
+- Custom fixtures
+
+### Cast Urethane
+
+Our cast urethane services provide flexible parts and low-volume production alternatives to injection molding.
+
+**Capabilities:**
+- Shore hardness range: 20A to 80D
+- Colors: Custom color matching available
+- Typical quantities: 1-100 parts
+- Lead time: 5-15 business days
+
+**Common Applications:**
+- Flexible parts
+- Overmolded components
+- Functional prototypes
+- Low-volume production
+
+## Design Guidelines
+
+### General Design Guidelines
+
+1. **Wall Thickness**
+   - Maintain uniform wall thickness whenever possible
+   - Avoid abrupt transitions between thick and thin sections
+   - Recommended minimum wall thickness varies by process and material
+
+2. **Draft Angles**
+   - Include appropriate draft angles for molded parts
+   - Typically 1-3° for injection molding
+   - 3-5° for cast urethane parts
+
+3. **Radii and Fillets**
+   - Add radii to internal corners to reduce stress concentration
+   - Use fillets to strengthen joints and improve material flow
+
+4. **Tolerances**
+   - Specify tolerances only where functionally necessary
+   - Consider the capabilities of each manufacturing process
+   - Tighter tolerances generally increase cost
+
+### Material Selection
+
+When selecting materials, consider:
+- Mechanical properties (strength, flexibility, hardness)
+- Environmental factors (temperature, UV exposure, chemical resistance)
+- Regulatory requirements (FDA, UL, RoHS)
+- Cost and availability
+- Appearance and finish requirements
+
+Our engineering team can assist with material selection based on your specific requirements.
+
+## Quality Assurance
+
+Printform maintains strict quality control procedures throughout the manufacturing process:
+
+1. **Incoming Material Inspection**
+   - All raw materials are inspected and verified before use
+
+2. **In-Process Quality Checks**
+   - Regular inspections during production
+   - First article inspection for new parts
+
+3. **Final Inspection**
+   - Dimensional verification using CMM and other measurement tools
+   - Visual inspection for cosmetic defects
+   - Functional testing when applicable
+
+4. **Documentation**
+   - Detailed inspection reports
+   - Material certifications
+   - Certificate of conformance
+
+## Ordering Process
+
+1. **Request a Quote**
+   - Submit your CAD files and requirements
+   - Receive a detailed quote within 24 hours
+
+2. **Design Review**
+   - Our engineering team reviews your design for manufacturability
+   - Suggestions for improvements or cost reductions
+
+3. **Order Confirmation**
+   - Approve the quote and finalize specifications
+   - Make payment according to terms
+
+4. **Production**
+   - Parts are manufactured according to specifications
+   - Regular updates on production status
+
+5. **Quality Inspection**
+   - All parts undergo thorough inspection
+   - Documentation prepared
+
+6. **Shipping**
+   - Parts are carefully packaged
+   - Shipped via selected method
+   - Tracking information provided
+
+## Contact Information
+
+**Main Office:**
+123 Manufacturing Way
+Houston, TX 77001
+
+**Phone:** (555) 123-4567
+**Email:** info@printform.com
+**Website:** https://printform.com
+
+**Hours of Operation:**
+Monday - Friday: 8:00 AM - 6:00 PM CST
+
+## Employee Resources
+
+### New Employee Onboarding
+
+New employees should complete the following steps:
+1. Complete HR paperwork with the HR department
+2. Attend company orientation (scheduled monthly)
+3. Complete safety training appropriate for your role
+4. Meet with your department manager for role-specific training
+5. Set up your company email and access to relevant systems
+
+### Safety Procedures
+
+All employees must follow safety protocols:
+1. Always wear appropriate PPE in manufacturing areas
+2. Report any safety concerns immediately to your supervisor
+3. Know the location of emergency exits, fire extinguishers, and first aid kits
+4. Follow lockout/tagout procedures when working with machinery
+5. Complete annual safety refresher training
+
+### IT Support
+
+For IT-related issues:
+1. Submit a ticket through the IT portal on the company intranet
+2. For urgent issues, call the IT helpdesk at ext. 4357 (HELP)
+3. New software requests require manager approval
+
+### Benefits Information
+
+Employee benefits include:
+1. Health, dental, and vision insurance (enrollment within 30 days of hire)
+2. 401(k) retirement plan with company matching
+3. Paid time off accrual based on years of service
+4. Professional development opportunities
+5. Employee discount program
+
+For benefits questions, contact HR at hr@printform.com or ext. 2100.

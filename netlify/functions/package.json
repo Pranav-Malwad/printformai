@@ -1,0 +1,11 @@
+{
+  "name": "netlify-functions",
+  "version": "1.0.0",
+  "description": "Netlify functions for the application",
+  "dependencies": {
+    "formidable": "^2.1.2",
+    "uuid": "^9.0.1",
+    "pdf-parse": "^1.1.1",
+    "openai": "^4.0.0"
+  }
+}
